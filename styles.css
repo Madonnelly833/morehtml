@@ -1,0 +1,63 @@
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+h1 {
+    font-size: 6em;
+}
+h1 {
+    text-align: center;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+h2 {
+    font-size: 5em;
+}
+h2 {
+    text-align: center;
+}
+p {
+    font-size: 3em;
+}
+p {
+    text-align: center;
+}
+h3 {
+    font-size: 4em;
+}
+h3 {
+    text-align: center;
+}
+h1 {
+    background-color: green;
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: yellow;
+}
+h2 {
+    background-color: #457531;
+}
+
+h3 {
+    background-color: #FFF476;
+}
+body {
+	background-color: black;
+}
+
+body {
+    color: white;
+}
+h3 {
+	color: black;
+}
+p {
+	color: black;
+}
